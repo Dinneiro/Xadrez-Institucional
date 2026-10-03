@@ -217,7 +217,7 @@ O projeto possui um relatório técnico completo contendo informações sobre:
 * Organização do código;
 * Aplicação pedagógica.
 
-📄 **[Acessar o relatório completo](docs/Relatorio_Completo_Xadrez_Portugol.pdf)**
+📄 **[Acessar o relatório completo](Relatorio_Completo_Xadrez_Portugol.pdf)**
 
 ---
 
